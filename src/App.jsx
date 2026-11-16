@@ -1,6 +1,7 @@
-function App() {
+import { AppRouter } from "./routes/AppRouter"
 
-  return <h1>ArgentBank</h1>
+export function App() {
+
+  return <AppRouter />
 }
 
-export default App
