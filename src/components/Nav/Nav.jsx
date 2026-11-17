@@ -18,7 +18,7 @@ export function Nav() {
             <div>
                 <Link className="main-nav-item" to="/sign-in">
                     <FaUserCircle />
-                    Sign In
+                    {' '}Sign In
                 </Link>
             </div>
         </nav>
