@@ -1,4 +1,6 @@
+import { ProfileHeader } from "../../components/ProfileHeader/ProfileHeader"
+
 export function Profile() {
 
-    return null
+    return <ProfileHeader />
 }
