@@ -6,6 +6,7 @@ export function Home() {
 
     return (
         <>
+            <title>Argent Bank - Home Page</title>
             <div className="hero">
                 <section className="hero-content">
                     <h2 className="sr-only">Promoted Content</h2>

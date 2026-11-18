@@ -6,6 +6,7 @@ export function Profile() {
 
     return (
         <>
+            <title>Argent Bank - Profile</title>
             <ProfileHeader />
             <h2 className="sr-only">Accounts</h2>
             {accounts.map((account) => {
